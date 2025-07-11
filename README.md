@@ -1,4 +1,4 @@
 # code-demo
-auther=sethyadav
+auther=seth(yadavji)
 <br>
 this is my first git repository.
